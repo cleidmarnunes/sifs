@@ -59,6 +59,7 @@ PASS: admin<br>
 <br>
 
 ## Pós instalação do syspass
+Para instalçao do syspass no Ubuntu Server 22.04, se faz necessario a instalçao do pacote "Docker, Docker-composer " executando e seguinte comando : apt install docker docker-composer
 https://"endereçodeip":8543
 Necessario realizar o cadastro da aplicação, usuario administrador e o banco de dados.<br>
 [Clique Aqui](https://youtu.be/7KlgCBppCKc) Video para auxilio
